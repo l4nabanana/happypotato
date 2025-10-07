@@ -23,7 +23,7 @@ function preload() {
   imgStone1 = loadImage('stone.png');
   imgBone1 = loadImage('bone.png');
   imgPlank1 = loadImage('plank.png');
-  monsterImg = loadImage('monster.png');
+  monsterImg = loadImage('mango.png');
 }
 
 function setup() {
@@ -586,4 +586,5 @@ class SlingShot {
   }
 
 }
+
 
